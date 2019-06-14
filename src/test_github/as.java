@@ -9,5 +9,6 @@ public class as {
 		System.out.println(next);
 //		System.out.println("nidaye");
 //		System.out.println("222");
+bbb
 	}
 }
